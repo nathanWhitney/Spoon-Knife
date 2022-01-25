@@ -1,0 +1,3 @@
+I'd say that the blessed repo is probably the best tactic for running a small group project as long as there is enough trust with the person who would be the integration manager. Without that trust it's probably better to go for a common repository to make sure that one person not working doesn't result in everything getting bottlenecked. However the benefits of the blessed repo are high as it makes merging and any potential issues a lot easier to spot.
+
+The best projects in general seem to be the ones that are well planned out from the start with a clear line of command as it means that issues are dealt with before they affect the final project.
